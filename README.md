@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**ifjbd/ifjbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sayed Ahmed Efaz, a passionate Python developer and enthusiast. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I am Computer Science student
+- 💻 Python developer
+
+- 👯 Open to collaborate on Python projects
+
+## My Interests in Python
+
+- **Web Development**: Using frameworks like Django and Flask.
+- **Data Science and Machine Learning**: Exploring libraries like Pandas, NumPy, and scikit-learn.
+- **Automation**: Writing scripts to automate tasks and processes.
+- **Game Development**: Experimenting with libraries like Pygame.
+- **Scripting**: Creating small tools and utilities for personal use.
+
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to chat about Python or programming in general!
